@@ -1,15 +1,3 @@
-#################################################################
-Contract here 
-
-0xBCfCcbde45cE874adCB698cC183deBcF17952812  
-
-I REPLACED IT WITH THIS Wallet address, not contract address
-
-0x5efac6e1E1a433ed88F2dd5b7A8504147462C8B6
-
-
-#######################################################
-
 pragma solidity =0.5.16;
 
 
